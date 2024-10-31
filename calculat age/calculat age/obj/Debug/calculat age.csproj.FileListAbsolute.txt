@@ -1,0 +1,7 @@
+C:\Users\HP Book\source\repos\calculat age\calculat age\obj\Debug\calculat age.csproj.AssemblyReference.cache
+C:\Users\HP Book\source\repos\calculat age\calculat age\obj\Debug\calculat age.csproj.CoreCompileInputs.cache
+C:\Users\HP Book\source\repos\calculat age\calculat age\bin\Debug\calculat age.exe.config
+C:\Users\HP Book\source\repos\calculat age\calculat age\bin\Debug\calculat age.exe
+C:\Users\HP Book\source\repos\calculat age\calculat age\bin\Debug\calculat age.pdb
+C:\Users\HP Book\source\repos\calculat age\calculat age\obj\Debug\calculat age.exe
+C:\Users\HP Book\source\repos\calculat age\calculat age\obj\Debug\calculat age.pdb
